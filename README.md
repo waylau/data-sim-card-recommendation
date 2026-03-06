@@ -8,6 +8,12 @@
 
 我个人因为经常会买流量卡作为副卡，也被坑过，因此整理出这份避坑+推荐指南，不管你是每月用几十G还是几百G，不管是追求低价还是稳定，都能找到适合自己的，最后也会分享我实测后觉得靠谱的几款。
 
+关注以下任意仓库均可：
+
+* <https://github.com/waylau/data-sim-card-recommendation>
+* <https://gitee.com/waylau/data-sim-card-recommendation>
+
+
 
 ## 一、先搞懂3个核心问题，避免90%的坑
 
