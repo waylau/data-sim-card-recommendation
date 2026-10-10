@@ -90,4 +90,7 @@
 由于流量卡运营周期不确定，短则几天就下架，因此本仓库也会尽量及时更新，增删上架下架的产品。
 大家看中好的流量卡及早下手。
 
-<https://www.haokaxinyao.com/#/pages/sales_index/my_store?mall_id=mO5zo187INJM0oV40Wop%2Bg%3D%3D>
+优惠流程套餐合集：<https://my.feishu.cn/wiki/UJzqwUBn6iZ7dZk0bknc2p3PnRc>
+
+参考： <https://www.haokaxinyao.com/#/pages/sales_index/my_store?mall_id=mO5zo187INJM0oV40Wop%2Bg%3D%3D>
+
